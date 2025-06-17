@@ -26,7 +26,7 @@
 
 ## 📫 Conecta conmigo
 
-- [LinkedIn](#) www.linkedin.com/in/josé-luis-rodríguez-valenzuela-306358224
+- [LinkedIn](#www.linkedin.com/in/josé-luis-rodríguez-valenzuela-306358224)
 - [Email](mailto:josepayoyo2003@gmail.com)
 
 ---
