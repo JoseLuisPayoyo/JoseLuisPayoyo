@@ -9,7 +9,6 @@
 - ☕ **Java** – Backend orientado a objetos y APIs REST
 - 🐳 **Docker** – Contenerización y despliegues portables
 - ☁️ **AWS** – Gestión de infraestructura en la nube
-- 🌐 **WordPress + Elementor + WooCommerce** – Desarrollo web visual y tiendas online
 - 🤖 **GitHub Copilot + ChatGPT** – IA aplicada al desarrollo de software
 
 ---
