@@ -9,6 +9,8 @@
 - ☕ **Java** – Backend orientado a objetos y APIs REST
 - 🐳 **Docker** – Contenerización y despliegues portables
 - ☁️ **AWS** – Gestión de infraestructura en la nube
+- 🧩 **HTML** – Maquetación semántica y estructurada desde cero
+- 🎨 **CSS** – Diseño visual personalizado, responsive y optimizado
 - 🤖 **GitHub Copilot + ChatGPT** – IA aplicada al desarrollo de software
 
 ---
