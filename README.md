@@ -7,6 +7,7 @@
 ## 🚀 Tech Stack Actual
 
 - ☕ **Java** – Backend orientado a objetos y APIs REST
+- 🐍 **Python** – Automatización, manejo de APIs, backend y scripts eficientes
 - 🐳 **Docker** – Contenerización y despliegues portables
 - ☁️ **AWS** – Gestión de infraestructura en la nube
 - 🧩 **HTML** – Maquetación semántica y estructurada desde cero
