@@ -11,7 +11,6 @@
 - ☁️ **AWS** – Gestión de infraestructura en la nube
 - 🧩 **HTML** – Maquetación semántica y estructurada desde cero
 - 🎨 **CSS** – Diseño visual personalizado, responsive y optimizado
-- 🤖 **GitHub Copilot + ChatGPT** – IA aplicada al desarrollo de software
 
 ---
 
@@ -20,7 +19,6 @@
 - 🧩 Cómo combinar backend, WordPress y cloud para construir soluciones reales
 - 📦 Prácticas DevOps para desplegar y escalar proyectos
 - 🎯 Inglés técnico y comunicación efectiva para trabajar en remoto
-- 🔍 Automatización, testing y buenas prácticas asistidas por IA
 
 
 ---
