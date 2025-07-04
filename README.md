@@ -9,8 +9,8 @@ Soy un desarrollador backend en formación, centrado en construir productos robu
 
 ---
 
-## 💻 Tecnologías principales
-
+## 💻 Tecnologías principales 
+(aprendiendo)
 - ☕ **Java 17+** – Backend robusto con POO avanzada, Streams, colecciones y APIs RESTful
 - 🧠 **Spring Boot 3** – Framework principal para APIs limpias, arquitectura en capas, seguridad, y testing
 - 🐘 **PostgreSQL** – Modelado relacional, relaciones complejas, consultas SQL optimizadas
