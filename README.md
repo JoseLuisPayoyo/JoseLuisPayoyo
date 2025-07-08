@@ -9,28 +9,30 @@ Soy un desarrollador backend en formación, centrado en construir productos robu
 
 ---
 
-## 💻 Tecnologías principales 
-(aprendiendo)
-- ☕ **Java 17+** – Backend robusto con POO avanzada, Streams, colecciones y APIs RESTful
-- 🧠 **Spring Boot 3** – Framework principal para APIs limpias, arquitectura en capas, seguridad, y testing
-- 🐘 **PostgreSQL** – Modelado relacional, relaciones complejas, consultas SQL optimizadas
+# 💻 Tecnologías principales  
+*(aprendiendo actualmente)*
+
+- ☕ **Java 17+** – Backend robusto con POO avanzada, Streams, colecciones y APIs RESTful  
+- 🧠 **Spring Boot 3** – Framework principal para APIs limpias, arquitectura en capas, seguridad y testing  
+- 🐘 **PostgreSQL** – Modelado relacional, relaciones complejas, consultas SQL optimizadas  
 - 🔐 **Spring Security + JWT** – Protección real con autenticación, roles y control de acceso
-- 🧪 **JUnit & Mockito** – Testing unitario, integración, TDD y pruebas de seguridad
-- 🐳 **Docker & Docker Compose** – Contenerización completa de backend y base de datos
-- ☁️ **AWS** – Despliegue en EC2, gestión de secretos, CI/CD con GitHub Actions
-- 🌐 **Git + GitHub** – Flujo de trabajo profesional: ramas, pull requests, acciones automáticas
-- ⚛️ **React + TypeScript + Tailwind CSS** – Frontend funcional orientado a consumo de APIs
+- 🎓 **Bootcamp de Blockchain** – Aplicaciones reales, seguridad, integración Web2/Web3  
+- 🧪 **JUnit & Mockito** – Testing unitario, integración, TDD y pruebas de seguridad  
+- 🐳 **Docker & Docker Compose** – Contenerización completa de backend y base de datos  
+- ☁️ **AWS** – Despliegue en EC2, gestión de secretos, CI/CD con GitHub Actions  
+- 🌐 **Git + GitHub** – Flujo de trabajo profesional: ramas, pull requests, acciones automáticas  
+- 💻 **JavaScript moderno** – Frontend funcional para consumo de APIs desde cero  
 
 ---
 
-## 📚 Actualmente estoy aprendiendo...
+# 📚 Actualmente estoy aprendiendo...
 
-- 📐 **Arquitectura limpia** aplicada a proyectos reales: separación por dominio, infraestructura y aplicación
-- 🔄 **Integración Web2/Web3** con enfoque blockchain (off-chain data, servicios para smart contracts)
-- 📦 **DevOps real**: CI/CD, monitoreo, buenas prácticas de despliegue en producción
-- 📊 **SQL pro**: joins complejos, subconsultas, paginación, índices y trazabilidad
-- 🧠 **Testing profesional** como herramienta de diseño, validación y mantenimiento
-- 🌍 **Inglés técnico** aplicado a documentación, lectura de APIs y colaboración global
+- 📐 **Arquitectura limpia** – Separación por dominio, infraestructura y aplicación  
+- 🔄 **Integración Web2/Web3** – Servicios backend para smart contracts y datos off-chain  
+- 📦 **DevOps real** – CI/CD, monitoreo, despliegues eficientes en producción  
+- 📊 **SQL avanzado** – Joins complejos, subconsultas, paginación, trazabilidad, optimización  
+- 🧠 **Testing profesional** – Como herramienta de diseño, validación y mantenimiento  
+- 🌍 **Inglés** – Enfocado a documentación, lectura de APIs y colaboración global  
 
 ---
 
