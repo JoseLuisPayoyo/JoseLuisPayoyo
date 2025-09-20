@@ -22,7 +22,6 @@ Soy un desarrollador backend en formación, centrado en construir productos robu
 - 🐳 **Docker & Docker Compose** – Contenerización completa de backend y base de datos  
 - ☁️ **AWS** – Despliegue en EC2, gestión de secretos, CI/CD con GitHub Actions  
 - 🌐 **Git + GitHub** – Flujo de trabajo profesional: ramas, pull requests, acciones automáticas  
-- 💻 **JavaScript moderno** – Frontend funcional para consumo de APIs desde cero  
 
 ---
 
