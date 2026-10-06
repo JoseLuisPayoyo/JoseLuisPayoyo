@@ -1,7 +1,6 @@
 # 👋 ¡Hola! Soy José Luis
 
 📚 Estudiante de Desarrollo de Aplicaciones Multiplataforma (DAM) y aprendiendo algunas tecnologías de forma autodidacta.
-<p align="center"> <img src="./assets/logoo.png" alt="Logo Payoyo" width="350" /> </p>
 
 ---
 # 🚀 Tech Stack Actual
