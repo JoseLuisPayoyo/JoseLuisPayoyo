@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 300" width="1280" height="300" role="img" aria-labelledby="t d">
   <title id="t">José Luis Rodríguez Valenzuela</title>
-  <desc id="d">Desarrollador full-stack. Fundador de CauceWebs.</desc>
+  <desc id="d">Desarrollador full-stack. Fundador de Cauce.</desc>
   <style>
     .fondo { fill: #F6F5F1; }
     .tinta { fill: #0E0F0D; }
@@ -30,7 +30,7 @@
   <circle class="acento-relleno" cx="1240" cy="150" r="5"/>
 
   <text class="tinta" x="64" y="132" font-size="44" font-weight="650" letter-spacing="-0.5">José Luis Rodríguez Valenzuela</text>
-  <text class="suave" x="64" y="178" font-size="24">Desarrollador full-stack · Fundador de CauceWebs</text>
+  <text class="suave" x="64" y="178" font-size="24">Desarrollador full-stack · Fundador de Cauce</text>
   <rect class="acento-relleno" x="64" y="214" width="40" height="3" rx="1.5"/>
-  <text class="suave" x="120" y="220" font-size="17" letter-spacing="0.3">Spring Boot · React · PostgreSQL · Cloudflare · Astro</text>
+  <text class="suave" x="120" y="220" font-size="17" letter-spacing="0.3">Java · Spring Boot · React · PostgreSQL · Cloudflare · Agentes de IA</text>
 </svg>
