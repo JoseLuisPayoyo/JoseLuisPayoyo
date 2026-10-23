@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 300" width="1280" height="300" role="img" aria-labelledby="t d">
+  <title id="t">José Luis Rodríguez Valenzuela</title>
+  <desc id="d">Desarrollador full-stack. Fundador de CauceWebs.</desc>
+  <style>
+    .fondo { fill: #F6F5F1; }
+    .tinta { fill: #0E0F0D; }
+    .suave { fill: #5A605C; }
+    .linea { stroke: #0E0F0D; opacity: .14; }
+    .acento { stroke: #2F6B4F; }
+    .acento-relleno { fill: #2F6B4F; }
+    text { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; }
+    @media (prefers-color-scheme: dark) {
+      .fondo { fill: #0D1117; }
+      .tinta { fill: #E6EDF3; }
+      .suave { fill: #8B949E; }
+      .linea { stroke: #E6EDF3; opacity: .12; }
+      .acento { stroke: #6FBF95; }
+      .acento-relleno { fill: #6FBF95; }
+    }
+  </style>
+
+  <rect class="fondo" width="1280" height="300" rx="12"/>
+
+  <!-- Cauce: tres líneas que corren en paralelo y se juntan -->
+  <g fill="none" stroke-width="2" stroke-linecap="round">
+    <path class="linea" d="M900 70 C 990 70, 1010 130, 1080 130 S 1200 110, 1240 110"/>
+    <path class="linea" d="M900 230 C 990 230, 1010 170, 1080 170 S 1200 190, 1240 190"/>
+    <path class="acento" stroke-width="3" d="M900 150 C 990 150, 1010 150, 1080 150 S 1200 150, 1240 150"/>
+  </g>
+  <circle class="acento-relleno" cx="1240" cy="150" r="5"/>
+
+  <text class="tinta" x="64" y="132" font-size="44" font-weight="650" letter-spacing="-0.5">José Luis Rodríguez Valenzuela</text>
+  <text class="suave" x="64" y="178" font-size="24">Desarrollador full-stack · Fundador de CauceWebs</text>
+  <rect class="acento-relleno" x="64" y="214" width="40" height="3" rx="1.5"/>
+  <text class="suave" x="120" y="220" font-size="17" letter-spacing="0.3">Spring Boot · React · PostgreSQL · Cloudflare · Astro</text>
+</svg>
