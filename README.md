@@ -11,6 +11,7 @@ Por mi cuenta he fundado Cauce, que diseño, programo y opero yo solo.
 Software para negocios locales, en dos ramas: **CauceWebs**, un SaaS en producción con clientes y facturación real, y **Cauce OS**, un motor de agentes de IA.
 
 ### CauceWebs · en producción
+#### https://caucewebs.es
 
 **Webs para bares de Andalucía, hechas una a una y mantenidas por suscripción.** Cada web es única: la estructura sale de un sistema de piezas y la paleta, de las fotos del propio local.
 Detrás hay una plataforma completa que lleva desde el primer contacto con el bar hasta la factura.
@@ -54,6 +55,7 @@ flowchart LR
 Arquitectura, capturas y decisiones en **[cauce-showcase](https://github.com/JoseLuisPayoyo/cauce-showcase)**. El código es privado.
 
 ### Cauce OS · motor de agentes de IA
+#### https://cauce.dev
 
 **Plataforma para construir agentes de IA, escrita en Java, con código público (licencia BUSL).** Un agente atiende a las personas por sus canales de mensajería, usa las herramientas del negocio que se le conceden y deja cada paso en un registro que se puede verificar sin fiarse del propio motor.
 Multi-tenant desde la primera migración: el aislamiento entre negocios lo pone la base de datos, no el código.
