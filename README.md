@@ -53,7 +53,7 @@ Arquitectura, capturas y decisiones en **[cauce-showcase](https://github.com/Jos
 
 ## Cauce OS
 
-Plataforma open source para construir agentes de IA, escrita en Java.
+Plataforma para construir agentes de IA, escrita en Java, con código público (licencia BUSL).
 [cauceos/cauce](https://github.com/cauceos/cauce) · [cauce.dev](https://cauce.dev)
 
 ---
