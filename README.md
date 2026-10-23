@@ -6,12 +6,12 @@ Por mi cuenta he fundado Cauce, que diseño, programo y opero yo solo.
 
 ---
 
-## Cauce - https://cauce.dev
+## CAUCE
 
 Software para negocios locales, en dos ramas: **CauceWebs**, un SaaS en producción con clientes y facturación real, y **Cauce OS**, un motor de agentes de IA.
 
-### CauceWebs · en producción
-#### https://caucewebs.es
+### CauceWebs · en producción · https://caucewebs.es
+#### 
 
 **Webs para bares de Andalucía, hechas una a una y mantenidas por suscripción.** Cada web es única: la estructura sale de un sistema de piezas y la paleta, de las fotos del propio local.
 Detrás hay una plataforma completa que lleva desde el primer contacto con el bar hasta la factura.
